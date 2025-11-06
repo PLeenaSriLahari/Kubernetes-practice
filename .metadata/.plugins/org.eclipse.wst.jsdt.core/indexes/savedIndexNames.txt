@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\ansible_practice\Ansible-Demo\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3480836144.index
+3591015520.index
+3927962698.index
+4245082012.index
+3241412286.index
